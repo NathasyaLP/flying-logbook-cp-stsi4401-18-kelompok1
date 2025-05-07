@@ -12,7 +12,7 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut terinstal:
 - Install Dependencies
   Setelah clone repositori, masuk ke direktori project dan install dependencies menggunakan Composer:
   ```language
-  cd repository-name
+  cd flying-logbook-cp-stsi4401-18-kelompok1
   composer install
   ```
 - Konfigurasi File .env
